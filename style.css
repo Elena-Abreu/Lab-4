@@ -18,4 +18,8 @@ header{
 
 .main-content { 
     background-color: yellow;
+} 
+
+#id2{ 
+    text-align: center;
 }
