@@ -32,4 +32,8 @@ a{
     text-decoration: underline;  
     text-decoration-style: dashed;
 
+} 
+
+.bold-text { 
+    font-weight: bold;
 }
