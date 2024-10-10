@@ -1,0 +1,13 @@
+header{ 
+    color:white; 
+    background-color: blue;
+} 
+
+.container{ 
+    background-color: lightgray; 
+    color: black;
+} 
+
+#id1{ 
+    color:red
+}
