@@ -44,4 +44,8 @@ a{
 
 body{ 
     font-family: Arial, sans-serif;
+} 
+
+.custom-font { 
+    font-family: 'Times New Roman', serif;
 }
