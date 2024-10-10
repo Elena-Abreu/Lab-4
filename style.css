@@ -26,4 +26,10 @@ header{
 
 a{ 
     text-decoration: none;
+} 
+
+.six-headings { 
+    text-decoration: underline;  
+    text-decoration-style: dashed;
+
 }
