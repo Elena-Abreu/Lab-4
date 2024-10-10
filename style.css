@@ -52,4 +52,8 @@ body{
 
 h7 { 
     text-transform: uppercase;
+} 
+
+.capitalize-text { 
+    text-transform: capitalize;
 }
